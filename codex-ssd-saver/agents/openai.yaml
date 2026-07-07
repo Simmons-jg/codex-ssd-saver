@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex SSD Saver"
+  short_description: "Save your SSD: quiet Codex SQLite log churn safely."
+  default_prompt: "Use $codex-ssd-saver to inspect Codex SQLite logging, install a WARN/ERROR-only trigger, verify low-level logs stopped, reclaim disk space, or remove the trigger."
