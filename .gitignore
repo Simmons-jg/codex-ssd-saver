@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite-*
+*.db
+*.bak
+*.backup-*
+*.raw-*
+.DS_Store
+Thumbs.db
